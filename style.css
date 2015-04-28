@@ -1,0 +1,23 @@
+body {
+	background-color: #734D1F;
+}
+
+.top {
+	background-color: #696DBF;
+}
+
+.makeSmall {
+	max-height: 200px;
+	max-width: 300px;
+}
+
+.well {
+	background-color: #9896D9;
+}
+
+/*Another Way to Size the image in the sub header
+.cat-title img {
+	height: 50%;
+	width: 50%;
+}
+*/
